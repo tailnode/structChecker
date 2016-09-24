@@ -2,10 +2,12 @@
 *.o
 *.a
 *.so
+debug
 
 # Folders
 _obj
 _test
+.vscode
 
 # Architecture specific extensions/prefixes
 *.[568vq]
